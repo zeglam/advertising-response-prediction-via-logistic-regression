@@ -7,4 +7,5 @@ In this project we will be working with an advertising data set, indicating whet
 #### Results
 Classification accuracy: 0.91
 
+##### Confusion Matrix
 ![Confusion Matrix](/Conf-matrix.png)
